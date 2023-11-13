@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+
+outputs/*
+scripts/*
+ckpt/clip_emb_normalized(49407x768).pth
+ckpt/sd-v1-4-full-ema.ckpt
+
+gradio_demo/__exemplar_image__.png
+gradio_demo/__masked__input__.png
