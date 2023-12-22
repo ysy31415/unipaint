@@ -434,7 +434,7 @@ class EMAVectorQuantizer(nn.Module):
             self.embedding.weight_update(self.num_tokens)
 
         # compute loss for embedding
-        loss = self.beta * F.F.mse_loss(z_q.detach(), z) 
+        loss = self.beta * F.mse_loss(z_q.detach(), z) 
 
         # preserve gradients
         z_q = z + (z_q - z).detach()
