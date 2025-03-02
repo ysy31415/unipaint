@@ -8,6 +8,7 @@
 [[Paper Link]](https://dl.acm.org/doi/10.1145/3581783.3612200) . Supplementary materials can be found in [Arxiv](https://arxiv.org/abs/2310.07222) version.
 
 
+![image](https://github.com/user-attachments/assets/d73222c0-6e95-4fc1-acbb-f46de6b36dd5)
 
 
 ## Abstract
